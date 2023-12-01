@@ -9,3 +9,12 @@ body {
 #code {
     font-family: 'Courier New', Courier, monospace;
 }
+
+#circle {
+    width: 36px;
+    height: 36px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background: #58E0C8;
+  }
