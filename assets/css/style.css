@@ -1,0 +1,11 @@
+body {
+    background-color: #0A192F; color: #afb4fa;
+}
+
+.green {
+    color: #58E0C8;
+}
+
+#code {
+    font-family: 'Courier New', Courier, monospace;
+}
